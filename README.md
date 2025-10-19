@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
 💻 I am relocating to New York City now that I've graduated. I worked as a fullstack SWE at eServices and have 3 years of hands-on startup experience.
 
-✈ In my free time, I like skiing, climbing, and, all things music. 
+✈ In my free time, I like skiing, climbing, and all things music. 
 
 ⚙️ I build software with a focus on minimalism. Creativity is the driving factor in all aspects of my life and career.
 
